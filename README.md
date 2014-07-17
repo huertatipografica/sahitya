@@ -1,5 +1,5 @@
-Alegreya Sans
-=============
+Alegreya Devanagari
+===================
 
 This file provides detailed information on the *Alegreya Devanagari* font
 software.
