@@ -34724,7 +34724,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 {
 disableAlignment = 1;
 name = "na-deva.post2";
-transform = "{0.999, 0.036, -0.036, 0.999, 549, -9}";
+transform = "{1, 0.036, -0.036, 1, 549, -9}";
 }
 );
 layerId = "DE015ECB-A67C-4002-897F-62A2367C50EF";
@@ -35096,7 +35096,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 {
 disableAlignment = 1;
 name = "ra-deva.post";
-transform = "{0.999, 0.036, -0.036, 0.999, 562, -27}";
+transform = "{1, 0.036, -0.036, 1, 562, -27}";
 }
 );
 layerId = "DE015ECB-A67C-4002-897F-62A2367C50EF";
@@ -52790,6 +52790,9 @@ N = {
 "@MMK_R_o" = "-24";
 "@MMK_R_period" = "-30";
 };
+"bh-deva" = {
+"bha-deva" = "-5";
+};
 fraction = {
 five.dnom = 0;
 four.dnom = "-30";
@@ -52799,16 +52802,13 @@ six.dnom = "-29";
 three.dnom = 15;
 two.dnom = "-15";
 };
+"na-deva" = {
+"na-deva" = 0;
+};
 t = {
 "@MMK_R_g" = "-10";
 "@MMK_R_o" = "-10";
 "@MMK_R_period" = "-16";
-};
-"bh-deva" = {
-"bha-deva" = "-5";
-};
-"na-deva" = {
-"na-deva" = 0;
 };
 };
 };
