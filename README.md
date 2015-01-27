@@ -19,27 +19,3 @@ Not only does Alegreya provide great performance, but also achieves a strong and
 The Alegreya type system is a "super family", originally intended for literature, and includes serif and [sans serif](<http://www.huertatipografica.com/fonts/alegreya-sans-ht>) sister families.
 
 Designed by Juan Pablo del Peral for [Huerta Tipográfica](<http://www.huertatipografica.com>).
-
-### Acknowledgements
-
-If you make modifications be sure to add your name (N),  email (E), web-address (if you have one) (W) and  description (D). This list is in alphabetical order.
-
-**N: Juan Pablo del Peral**
-
-E: juan@huertatipografica.com
-
-W: http://www.huertatipografica.com
-
-D: Original Type Designer (latin and devanagari)
-
----
-
-**N: Sol Matas**
-
-E: sol@huertatipografica.com
-
-W: http://www.huertatipografica.com
-
-D: Type Designer (devanagari)
-
-
