@@ -6,7 +6,7 @@ This file provides detailed information on the *Sahitya* font software. This inf
 
 Thanks to Erin McLaughlin, Vaishnavi Murthyand, Noopur Datye, Dan Reynolds and José Nicolás Silva for their support and feedback.
 
-### Font Information of Alegreya
+### Original information of Alegreya
 
 Alegreya was chosen as one of 53 "Fonts of the Decade" at the ATypI Letter2 competition in September 2011, and one of the top 14 text type systems. It was also selected in the 2nd Bienal Iberoamericana de Diseño, competition held in Madrid in 2010.
 
